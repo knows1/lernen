@@ -1,4 +1,4 @@
-[Algorithms & Data Structures](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
+[10 GitHub Repositories every Developer should know](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
 )
 ### Index
 
