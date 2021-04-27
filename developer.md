@@ -1,5 +1,5 @@
-https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
-
+[Algorithms & Data Structures](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
+)
 ### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
